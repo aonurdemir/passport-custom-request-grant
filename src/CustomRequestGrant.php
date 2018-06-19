@@ -62,7 +62,7 @@ class CustomRequestGrant extends AbstractGrant
      */
     public function getIdentifier()
     {
-        return 'custom_request';
+        return 'social_grant';
     }
 
     /**
